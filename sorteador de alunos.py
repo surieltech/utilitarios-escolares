@@ -34,7 +34,6 @@ def adicionar_nomes(lista):
             lista.append(nome)
             print(f"Aluno '{nome}' adicionado.")
 
-# Lista inicialmente vazia
 alunos = []
 
 # Primeiro passo: pedir que o usuário adicione nomes
